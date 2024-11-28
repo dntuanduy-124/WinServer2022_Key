@@ -1,3 +1,3 @@
-dism /online /get-currentedition and press ENTER
-dism /online /get-targeteditions and press ENTER
-dism /online /set-edition:serverdatacenter /productkey: KEY-KEY-KEY-KEY-KEY /accepteula and press ENTER
+dism /online /get-currentedition 
+dism /online /get-targeteditions 
+dism /online /set-edition:serverdatacenter /productkey: KEY-KEY-KEY-KEY-KEY /accepteula  
